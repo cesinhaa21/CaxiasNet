@@ -1,4 +1,3 @@
 # CaxiasNet
-Projeto voltado para mostrar os feitos realizados ao longo dos anos pelo Exército de Caxias.
+Projeto de desenvolvimento web do 7º período do curso de Ciência da Computação.
 
-Teste
